@@ -32,4 +32,4 @@ Detaljno uputstvo je u [docs/member3_setup.md](docs/member3_setup.md), a preciza
 
 ## Bitna granica odgovornosti
 
-Ovaj deo **ne kreira kolekciju i ne uvozi vektore**. To je namerno ostavljeno članu 4, da import bude čist, ponovljiv i lako dokaziv.
+Ovaj deo **ne kreira kolekciju i ne uvozi vektore**. To je za člana 4, da import bude čist, ponovljiv i lako dokaziv.
