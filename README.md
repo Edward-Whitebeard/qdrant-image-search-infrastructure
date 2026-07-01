@@ -1,6 +1,6 @@
-# Qdrant infrastruktura — član 3
+# Qdrant infrastruktura
 
-Ovo je završeni deo **Člana 3: Qdrant Docker/Cloud + instalacija** za projekat pretrage sličnih STL-10 slika.
+Ovo je završeni deo **Qdrant Docker/Cloud + instalacija** za projekat pretrage sličnih STL-10 slika.
 
 Paket nastavlja na već pripremljene ulaze:
 
